@@ -1,7 +1,7 @@
 ### Hello!👋
 
 ### About me:
-First Year Computer Science Major at UBC Okanagan.<br/>
+First Year Computer Science Major<br/>
 Currently interested in learning Java & Python.
 <br/>
 
