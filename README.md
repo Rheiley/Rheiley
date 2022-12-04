@@ -4,9 +4,7 @@
 First Year Computer Science Major<br/>
 Currently interested in learning Java & Python.
 <br/>
-
 ---
-
 <details>
 <summary> Hackathons 💻: </summary>
   
