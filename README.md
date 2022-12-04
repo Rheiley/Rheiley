@@ -1,4 +1,4 @@
-### Hello!👋
+### Hello! 👋
 
 ### About me:
 First Year Computer Science Major<br/>
