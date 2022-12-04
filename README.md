@@ -17,6 +17,4 @@ BC Hacks 4.0  - https://www.cscu.io/bc-hacks-4<br/>
 
 </details>
 
----
-
 
