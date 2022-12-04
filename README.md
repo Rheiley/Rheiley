@@ -1,7 +1,8 @@
-### About me🧑:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+###Hello!👋
+
+### About me:
+First Year Computer Science Major at UBC Okanagan.<br/>
+Currently interested in learning Java, Python, & C++.
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
