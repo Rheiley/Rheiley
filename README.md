@@ -20,7 +20,7 @@ BC Hacks 4.0  - https://www.cscu.io/bc-hacks-4<br/>
 ---
 
 <a href="https://github.com/Rheiley">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rheiley&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rheiley&theme=tokyonigh" />
   </a>
 
 
