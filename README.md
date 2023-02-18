@@ -2,8 +2,8 @@
 
 ### About me:
 - First Year Computer Science Major<br/>
-- Currently learning Java & Python<br/>
-- Interested in learning Javascript, Swift, & C++.
+- Currently learning Java, Python and Web development<br/>
+- Interested in learning C++.
 
 ---
 
