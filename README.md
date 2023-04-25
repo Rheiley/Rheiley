@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 ### About me:
-- First Year Computer Science Major<br/>
+- Second Year Computer Science Major<br/>
 - Currently learning Java, Python and HTML/CSS/Javascript<br/>
 
 ---
